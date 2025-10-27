@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misha_eft_guns/ak74u/weapon_izhmash_aks74u_545x39_LOD0_bolt_diff"
+	"$bumpmap" "models/misha_eft_guns/ak74u/weapon_izhmash_aks74u_545x39_LOD0_bolt_nrm"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

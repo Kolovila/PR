@@ -1,0 +1,7 @@
+"testgm"
+{
+	"base"		"base"
+	"title"		"PR"
+	"maps"		"^pr_"
+	"menusystem"	"1"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misha_eft_guns/toz/mag_toz-106_mc_20-01_sb3_20x70_4_diff"
+	"$bumpmap" "models/misha_eft_guns/toz/mag_toz-106_mc_20-01_sb3_20x70_4_nrm"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

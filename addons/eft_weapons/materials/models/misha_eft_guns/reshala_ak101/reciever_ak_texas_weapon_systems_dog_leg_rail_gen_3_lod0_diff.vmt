@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misha_eft_guns/reshala_ak101/reciever_ak_texas_weapon_systems_dog_leg_rail_gen_3_LOD0_diff"
+	"$bumpmap" "models/misha_eft_guns/reshala_ak101/reciever_ak_texas_weapon_systems_dog_leg_rail_gen_3_LOD0_nrm"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

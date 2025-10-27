@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misha_eft_guns/scar/reciever_mk17_fn_scar_h_std_LOD0_fde"
+	"$bumpmap" "models/misha_eft_guns/scar/reciever_mk17_fn_scar_h_std_LOD0_nrm_fde"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

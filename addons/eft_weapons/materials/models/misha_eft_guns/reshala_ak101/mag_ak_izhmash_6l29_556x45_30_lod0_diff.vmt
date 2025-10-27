@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misha_eft_guns/reshala_ak101/mag_ak_izhmash_6L29_556x45_30_LOD0_diff"
+	"$bumpmap" "models/misha_eft_guns/reshala_ak101/mag_ak_izhmash_6L29_556x45_30_LOD0_nrm"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

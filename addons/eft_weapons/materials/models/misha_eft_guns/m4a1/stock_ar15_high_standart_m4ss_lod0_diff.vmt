@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misha_eft_guns/m4a1/stock_ar15_high_standart_m4ss_LOD0_diff"
+	"$bumpmap" "models/misha_eft_guns/m4a1/stock_ar15_high_standart_m4ss_LOD0_nrm"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

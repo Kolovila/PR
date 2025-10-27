@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misha_eft_guns/pp91/mag_pp-91_zmz_pp-91_std_9x18pm_20_LOD0_diff"
+	"$bumpmap" "models/misha_eft_guns/pp91/mag_pp-91_zmz_pp-91_std_9x18pm_20_LOD0_nrm"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}
