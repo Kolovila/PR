@@ -3,6 +3,8 @@
 Большой режим про захват точек, тактические и фракционные войны
 
 Немного скриншотов
+
+
 <img width="247" height="108" alt="image" src="https://github.com/user-attachments/assets/6a80cd02-338c-4028-94f7-0c745dfbbcc3" />
 
 <img width="1209" height="808" alt="image" src="https://github.com/user-attachments/assets/cbfcdd37-905d-430d-bc9f-cbb5c3553ad3" />
